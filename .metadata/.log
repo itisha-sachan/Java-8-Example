@@ -444,3 +444,18 @@ java.lang.NullPointerException: Cannot invoke "java.net.URI.toString()" because 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 10:59:12.019
 !MESSAGE executing callback sts4.classpath.NnqKhKvb SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 12:41:16.138
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 12:41:16.139
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 12:41:16.140
+!MESSAGE buffering callback sts4.classpath.NnqKhKvb OptionalInterfaces false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 12:41:16.141
+!MESSAGE executing callback sts4.classpath.NnqKhKvb 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-17 12:41:16.148
+!MESSAGE executing callback sts4.classpath.NnqKhKvb SUCCESS [done]
